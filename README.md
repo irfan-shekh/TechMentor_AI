@@ -1,6 +1,6 @@
 # 🚀 TechMentor AI — Technical Q&A Assistant
 
-Welcome to my Week 2 Capstone exercise for the LLM Engineering course! This project is a full-featured prototype of a technical Q&A assistant built with **Gradio**.
+This project is a full-featured prototype of a technical Q&A assistant built with **Gradio**.
 
 ## ✨ Features
 
